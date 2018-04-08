@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>images (36).jpg</filename>
+	<path>C:\Users\Luis.e\Desktop\vision\data\train\images (36).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>205</width>
+		<height>245</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>64</ymin>
+			<xmax>146</xmax>
+			<ymax>90</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>28</ymin>
+			<xmax>136</xmax>
+			<ymax>52</ymax>
+		</bndbox>
+	</object>
+</annotation>

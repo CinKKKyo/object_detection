@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>images.jpg</filename>
+	<path>C:\Users\Luis.e\Desktop\vision\data\test\images.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>228</width>
+		<height>221</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>87</ymin>
+			<xmax>127</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>
